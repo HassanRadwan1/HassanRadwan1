@@ -42,7 +42,7 @@ Aspiring Data Scientist with strong foundation in programming, data analysis, an
 </a>
 
 <a href="mailto:hassanradwan161@gmail.com" title="Email">
-  <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Icon" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Gmail Icon"/>
 </a>
 
 </div>
