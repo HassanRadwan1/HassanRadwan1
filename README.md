@@ -34,7 +34,15 @@ Aspiring Data Scientist with strong foundation in programming, data analysis, an
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/hassan-radwan-938900260/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn Icon"/>
-  </a>
+
+### Connect with me
+
+<a href="https://www.linkedin.com/in/hassan-radwan-938900260/" title="LinkedIn">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn Icon"/>
+</a>
+
+<a href="mailto:hassanradwan161@gmail.com" title="Email">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Icon" height="40" />
+</a>
+
 </div>
